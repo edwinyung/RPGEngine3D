@@ -1,6 +1,7 @@
 # RPGEngine3D
 3D RPG Engine written in C++ and using React.js/Electron/WebAssembly as Game Editor
-Allows everyone, regardless of coding ability, to create robust 3D role-playing games with extensions for developers
+
+Allows everyone, regardless of coding ability, to create robust 3D role-playing games. Has extensions for developers
 
 # Outline
 
@@ -8,9 +9,14 @@ Allows everyone, regardless of coding ability, to create robust 3D role-playing 
 
 Event/message bus - publish/subscribe, request/reply
 
+Entity Component System
+
+# AI
+
 # Pathfinding
 
 A* heuristic search
+
 KD-trees
 
 # UI
@@ -19,6 +25,7 @@ KD-trees
 
 # Graphics/Rendering
 Raycasting
+
 Lighting
 
 # Animation
@@ -32,6 +39,10 @@ https://docs.gdevelop-app.com/GDCore%20Documentation/
 https://en.wikipedia.org/wiki/Simple_and_Fast_Multimedia_Library
 
 https://docs.aws.amazon.com/lumberyard/latest/apireference/
+
+
+# Architecture Resources
+https://en.wikipedia.org/wiki/Entity_component_system
 
 # Message Bus Resources
 https://www.enterpriseintegrationpatterns.com/patterns/messaging/
